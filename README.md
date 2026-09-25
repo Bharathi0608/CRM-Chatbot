@@ -9,9 +9,9 @@ The project is split into two parts:
 ## 🖥️ Application Preview
 
 <p align="center">
-  <img src="frontend/src/assets/CRM%20AI%20AssistantDashboard.png"
-     alt="CRM AI Assistant Dashboard"
-     width="100%">
+  <img src="frontend/src/assets/CRM%20AI%20Assistant%20Dashboard.jpg"
+       alt="CRM AI Assistant Dashboard"
+       width="100%">
 </p>
 
 > **CRM AI Assistant** — Ask questions about your CRM data using natural language. The AI converts user questions into SQL, queries the PostgreSQL database, and explains the results.
