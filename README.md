@@ -1,4 +1,4 @@
-# CRM SQL AI Chatbot
+# CRM-Chatbot (SQL AI Chatbot)
 
 This project is an AI-powered CRM text-to-SQL chatbot. It allows users to ask natural language questions about CRM data and automatically generates PostgreSQL/SQLite queries, executes them, and translates the result back into a natural language response.
 
