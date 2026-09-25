@@ -9,7 +9,7 @@ The project is split into two parts:
 ## 🖥️ Application Preview
 
 <p align="center">
-  <img src="frontend/src/assets/CRM%20AI%20Assistant%20Dashboard.jpg"
+  <img src="frontend/src/assets/CRM%20AI%20Assistant%20Dashboard.jpeg"
        alt="CRM AI Assistant Dashboard"
        width="100%">
 </p>
