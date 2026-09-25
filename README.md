@@ -6,6 +6,18 @@ The project is split into two parts:
 - **Backend:** A FastAPI server powered by LangChain and Groq LLM API.
 - **Frontend:** A React web application built with Vite.
 
+## 🖥️ Application Preview
+
+<p align="center">
+  <img src="screenshots/crm-ai-assistant.png" 
+       alt="CRM AI Assistant Dashboard" 
+       width="100%">
+</p>
+
+> **CRM AI Assistant** — Ask questions about CRM data using natural language. 
+> The AI converts user questions into SQL, queries the PostgreSQL database, 
+> and explains the results.
+
 ## Project Structure
 
 ```text
